@@ -1,0 +1,100 @@
+
+.footer {
+    height: 70px;
+    width: auto;
+    text-align: center;
+    background-color: burlywood;
+}
+
+img {
+    text-align: center;
+    height: 250px;
+    width: 210px;
+    margin-left: 40%;
+}
+
+p {
+    text-align: center;
+    width: 300px; 
+    margin-left: 35%;
+}
+
+#signature {
+    font-family: 'Rock Salt', cursive;
+    font-size: 40px;
+    margin-left: 10%;
+
+}
+
+#navbar {
+    position: fixed;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;  
+    top: 0;  
+}
+
+body {
+    background-color: bisque;
+}
+
+#headerimage {
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+#form-group {
+    margin: 0 0 0 40px;
+}
+
+input[type=submit] {
+    background: rgba(32, 31, 31, 0.842);
+    border: 0 none;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 30px;
+    cursor: pointer;
+    margin-left: 4%;
+}
+
+label,
+input[type=text],
+input[type=email],
+textarea {
+    display: block;
+    width: 70%;
+    height: 100%;
+}
+
+#contact-form {
+    padding-left: 20%;
+    height: 300px;
+}
+
+hr {
+    border-width: 6px;
+    border-color:lightskyblue;
+    border-right: 40px;;
+    margin-left: auto;
+}
+
+.btn btn-primary {
+
+}
+
+.moneytext {
+    text-align: center;
+}
+
+.money {
+    padding-left: 30%;
+
+}
+
+.media-body {
+    padding-left: 10%;
+}
